@@ -92,6 +92,6 @@
 
 <h5>Contribuidores para o projeto:</h5>
 <p>
-- Israel Hall Leighton; e
+- Israel Hall Leighton; e <br>
 - Paulo Rogério de Melo lima.
 </p>
