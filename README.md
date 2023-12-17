@@ -1,4 +1,4 @@
-# Projeto 3ª Unidade da matéria de Introdução às Técnicas de Programação - T06 - UFRN - 2023.2
+# Projeto 3ª Unidade da matéria de Introdução às Técnicas de Programação - T01 - UFRN - 2023.2
 
 <h1>Sistema de Reservas de Assentos em Teatro</h1>
 <p>Este projeto consiste na implementação de um programa em linguagem C para gerenciar a reserva de assentos em um teatro. Os assentos são representados por uma matriz, onde cada assento é uma struct com informações como estado de reserva, fileira, número e nome do ocupante (em caso de reserva).</p>
