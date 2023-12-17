@@ -89,3 +89,9 @@
 - A função <code>main</code> lê as dimensões da matriz, cria o Teatro e processa operações conforme entrada do usuário.<br>
 - Operações incluem salvar e carregar estado, visualização, reserva, cancelamento, verificação de disponibilidade, consultas e exibição de informações.
 </p>
+
+<h5>Contribuidores para o projeto:</h5>
+<p>
+- Israel Hall Leighton; e
+- Paulo Rogério de Melo lima.
+</p>
