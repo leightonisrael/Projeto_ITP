@@ -90,7 +90,7 @@
 - Operações incluem salvar e carregar estado, visualização, reserva, cancelamento, verificação de disponibilidade, consultas e exibição de informações.
 </p>
 
-<h5>Contribuidores para o projeto:</h5>
+<h4>Contribuidores para o projeto:</h4>
 <p>
 - Israel Hall Leighton; e <br>
 - Paulo Rogério de Melo lima.
